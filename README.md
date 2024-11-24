@@ -1,6 +1,6 @@
 # Projekt "Sklep internetowy" - część backend
 
-Stworzone z użyciem [Spring Boot](https://github.com/spring-projects/spring-boot) na wersji 3.1.X.
+Stworzone z użyciem [Spring Boot](https://github.com/spring-projects/spring-boot) na wersji 3.1.X.  
 Projekt tworzony był podczas kursu na witrynie Udemy pt. "(2024) Angular i Java Spring Od zera do Fullstack developera". Na bieżąco planuję rozwijać ten projekt i dodawać nowe możliwości lub zmieniać design.
 
 Link do oryginalnego projektu stworzonego przez autora kursu [GitLab](https://gitlab.com/udemycourses3053026/projekt-wspolny-fe).
